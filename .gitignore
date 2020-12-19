@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/RaresBooks/.vs/RaresBooks
+/RaresBooks/RaresBooks/bin/Debug/netcoreapp3.1
+/RaresBooks/RaresBooks/obj
